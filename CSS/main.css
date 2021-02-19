@@ -9,15 +9,13 @@
 }
 .navigation-bar{
 	position: absolute;
+	margin-top: 20px;
 }
 .main-text{
 	position: absolute;
 	margin-top: 209px;
 	margin-left: 140px;
 	display: inline-block;
-}
-.navigation-bar{
-	margin-top: 20px;
 }
 .navbar-li{
 	display: inline-block;
@@ -83,19 +81,19 @@
 	height: 64px;
 	font-family: 'Poppins';
 	font-weight: normal;
-
-
 }
 .moving-el{
 	position: sticky;
 	top: 570px;
 	color: #FFFFFF;
+	margin-left: 140px;
 	font-size: 20px;
 	font-family: 'Poppins';
 	font-weight: bold;
 }
 .middle-section{
 	margin-top: 732px;
+	margin-bottom: 70px;
 }
 .description{
 	margin-left: 126px;
@@ -133,7 +131,6 @@
 .decoration{
 	margin-left: 120px;
 	display: inline-block;
-	height: 461px;
 }
 .stairs{
 	display: inline-block;
