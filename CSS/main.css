@@ -1,0 +1,41 @@
+.imagewrapper{
+	position: relative;
+}
+.head-menu{
+	position: absolute;
+}
+.navigation-bar{
+	margin-top: 20px;
+}
+.navbar-li{
+	display: inline-block;
+}
+.zeta{
+	margin-left: 140px;
+}
+.home{
+	margin-left: 441px;
+}
+.rooms{
+	margin-left: 50px;
+}
+.down{
+	border:	solid black;
+	border-width: 0 3.47px 3.47px 0;
+	display: inline-block;
+	padding: 3px;
+	transform: rotate(45deg);
+	margin-left: 6px;
+}
+.restaurant{
+	margin-left: 50px;
+}
+.about-us{
+	margin-left: 50px;
+}
+.blog{
+	margin-left: 50px;
+}
+.contact{
+	margin-left: 50px;
+}
