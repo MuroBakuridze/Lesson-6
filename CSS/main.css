@@ -1,8 +1,20 @@
-.imagewrapper{
+.main-section{
 	position: relative;
 }
-.head-menu{
+/*.head-menu{
+	position: relative;
+}*/
+.imagewrapper{
 	position: absolute;
+}
+.navigation-bar{
+	position: absolute;
+}
+.main-text{
+	position: absolute;
+	margin-top: 209px;
+	margin-left: 140px;
+	display: inline-block;
 }
 .navigation-bar{
 	margin-top: 20px;
@@ -12,15 +24,21 @@
 }
 .zeta{
 	margin-left: 140px;
+	color: #FFFFFF;
+	font-size: 14px;
 }
 .home{
 	margin-left: 441px;
+	color: #FFFFFF;
+	font-size: 12px;
 }
 .rooms{
 	margin-left: 50px;
+	color: #FFFFFF;
+	font-size: 12px;
 }
 .down{
-	border:	solid black;
+	border:	solid white;
 	border-width: 0 3.47px 3.47px 0;
 	display: inline-block;
 	padding: 3px;
@@ -29,13 +47,36 @@
 }
 .restaurant{
 	margin-left: 50px;
+	color: #FFFFFF;
+	font-size: 12px;
 }
 .about-us{
 	margin-left: 50px;
+	color: #FFFFFF;
+	font-size: 12px;
 }
 .blog{
 	margin-left: 50px;
+	color: #FFFFFF;
+	font-size: 12px;
 }
 .contact{
 	margin-left: 50px;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.main-title{
+	color: #FFFFFF;
+	font-size: 62px;
+	width: 576px;
+	height: 160px;
+}
+.p-text{
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-top: 20px;
+	display:block;
+	width: 352px;
+	height: 64px;
+
 }
