@@ -80,3 +80,110 @@
 	height: 64px;
 
 }
+.stiky{
+	position: sticky;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.middle-section{
+	margin-top: 732px;
+}
+.description{
+	margin-left: 126px;
+	display: inline-block;
+}
+.desc-title{
+	color: #000000;
+	font-size: 42px;
+	display: block;
+	width: 374px;
+	height: 115px;
+}
+.desc-text1{
+	margin-top: 14px;
+	color: #000000;
+	font-size: 16px;
+	display: block;
+	width: 444px;
+	height: 78px;
+}
+.desc-text2{
+	margin-top: 14px;
+	color: #000000;
+	font-size: 14px;
+	display: block;
+	width: 444px;
+	height: 84px;
+}
+.decoration{
+	margin-left: 120px;
+	display: inline-block;
+	height: 461px;
+}
+.stairs{
+	display: inline-block;
+
+}
+.pool{
+	display: inline-block;
+	margin-left: 12px;
+}
+.chairs{
+	display: block;
+	width: 536px;
+}
+.read-more{
+	margin-top: 36px;
+	width: 184px;
+	height: 50px;
+	background-color: #5863F8;
+}
+.read{
+	color: #FFFFFF;
+	font-size: 14px;
+	display: inline-block;
+	padding-top: 15px;
+	padding-left: 40px;
+}
+.arrow-rght{
+	display: inline-block;
+	padding-top: 15px;
+	margin-right: 45px;
+}
+.ft{
+	background-color: #121212;
+}
+.ft-content{
+	padding-top: 50px;
+	margin-left: 140px;
+}
+.ft-title{
+	color: #FFFFFF;
+	font-size: 24px;
+}
+.ft-text{
+	padding-top: 20px;
+	color: #B1B1B1;
+	font-size: 14px;
+	width: 828px;
+	height: 83px;
+}
+.logo-twit{
+	margin-left: 22px;
+}
+.logo-google{
+	margin-left: 22px;
+}
+.copyright{
+	margin-top: 10px;
+	width: 560px;
+	height: 20px;
+	padding-bottom: 32px;
+}
+.copy{
+	color: #707070;
+	font-size: 14px;
+}
+.marian{
+	color: #5863F8;
+}
