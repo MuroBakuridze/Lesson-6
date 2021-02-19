@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-SemiBold.eot');
+    src: url('../Fonts/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../Fonts/Poppins-SemiBold.woff') format('woff'),
+        url('../Fonts/Poppins-SemiBold.ttf') format('truetype'),
+        url('../Fonts/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

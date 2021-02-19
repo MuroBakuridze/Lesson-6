@@ -21,6 +21,7 @@
 }
 .navbar-li{
 	display: inline-block;
+	font-family: 'Poppins';
 }
 .zeta{
 	margin-left: 140px;
@@ -70,6 +71,8 @@
 	font-size: 62px;
 	width: 576px;
 	height: 160px;
+	font-family: 'Poppins';
+	font-weight: bolder;
 }
 .p-text{
 	color: #FFFFFF;
@@ -78,12 +81,18 @@
 	display:block;
 	width: 352px;
 	height: 64px;
+	font-family: 'Poppins';
+	font-weight: normal;
+
 
 }
-.stiky{
+.moving-el{
 	position: sticky;
+	top: 570px;
 	color: #FFFFFF;
 	font-size: 20px;
+	font-family: 'Poppins';
+	font-weight: bold;
 }
 .middle-section{
 	margin-top: 732px;
@@ -98,6 +107,8 @@
 	display: block;
 	width: 374px;
 	height: 115px;
+	font-family: 'Poppins';
+	font-weight: bolder;
 }
 .desc-text1{
 	margin-top: 14px;
@@ -106,6 +117,8 @@
 	display: block;
 	width: 444px;
 	height: 78px;
+	font-family: 'Poppins';
+	font-weight: bold;
 }
 .desc-text2{
 	margin-top: 14px;
@@ -114,6 +127,8 @@
 	display: block;
 	width: 444px;
 	height: 84px;
+	font-family: 'Poppins';
+	font-weight: normal;
 }
 .decoration{
 	margin-left: 120px;
@@ -144,6 +159,8 @@
 	display: inline-block;
 	padding-top: 15px;
 	padding-left: 40px;
+	font-family: 'Poppins';
+	font-weight: normal;
 }
 .arrow-rght{
 	display: inline-block;
@@ -160,6 +177,8 @@
 .ft-title{
 	color: #FFFFFF;
 	font-size: 24px;
+	font-family: 'Poppins';
+	font-weight: bold;
 }
 .ft-text{
 	padding-top: 20px;
@@ -167,6 +186,8 @@
 	font-size: 14px;
 	width: 828px;
 	height: 83px;
+	font-family: 'Poppins';
+	font-weight: normal;
 }
 .logo-twit{
 	margin-left: 22px;
@@ -183,7 +204,36 @@
 .copy{
 	color: #707070;
 	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: normal;
 }
 .marian{
 	color: #5863F8;
+}
+.box-left{
+	background-color: #FFFFFF;
+	height: 51px;
+	width: 51px;
+	display: inline-block;
+	position: absolute;
+	top: 537px;
+	left: 1125px;
+}
+.left-arr{
+	color: #000000;
+	margin: 19px 19px 19px 19px;
+}
+.box-right{
+	background-color: #5863F8;
+	height: 51px;
+	width: 51px;
+	display: inline-block;
+	position: absolute;
+	top: 537px;
+	left: 1176px;
+
+}
+.right-arr{
+	color: #000000;
+	margin: 19px 19px 19px 19px;
 }
